@@ -4,7 +4,7 @@
 %global module kube-proxy kube-apiserver kube-controller-manager kubelet kubeadm kube-scheduler kubectl
 
 Name:           kubernetes
-Version:        1.19.4
+Version:        1.20.2
 Release:        1%{?dist}
 Summary:        Production-Grade Container Scheduling and Management
 License:        ASL 2.0
